@@ -10,6 +10,7 @@ I'm currently a 3rd year at UCSB studying Computer Science. But I am a software 
 <img alt="vincentktieu-ucsb gitHub stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vincentktieu-ucsb&show_icons=true&hide_border=true&hide=stars&count_private=true&theme=tokyonight&include_all_commits=true"/>
 </p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu101&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vincentktieu101 more stats" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu101&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vincentktieu101 more stats" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu-ucsb&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vincentktieu-ucsb more stats" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu-ucsb&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vincentktieu-ucsb more stats" /></p>
+</div>
