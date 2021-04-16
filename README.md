@@ -11,7 +11,7 @@ I'm currently a 3rd year at UCSB studying Computer Science. But I am a software 
 </p>
 
 <div>
-<!--   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu101&show_icons=true&theme=tokyonight&locale=en&layout=compact"   alt="vincentktieu101 more stats" /> -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu101&show_icons=true&theme=tokyonight&locale=en&layout=compact"   alt="vincentktieu101 more stats" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentktieu-ucsb&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vincentktieu-ucsb more stats" />
 </div>
